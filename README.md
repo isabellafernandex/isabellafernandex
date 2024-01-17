@@ -5,7 +5,3 @@
 
 ### 📊 GitHub Stats: </br>
 <img width="38%" src="https://github-readme-stats.vercel.app/api?username=isabellafernandex&theme=monokai&hide_border=false&include_all_commits=false&count_private=true"> <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellafernandex&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-
----
-[![](https://visitcount.itsvg.in/api?id=isabellafernandex&icon=0&color=12)](https://visitcount.itsvg.in)
-
