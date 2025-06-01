@@ -1,7 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=998FC7&width=435&lines=Ol%C3%A1%2C+eu+sou+Isabella+%F0%9F%91%A9%F0%9F%8F%BB;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
-🎓 Formada em Análise e Desenvolvimento de Sistemas
-📚 Estudando Análise de Dados e BI
+🎓 Formada em Análise e Desenvolvimento de Sistemas  
+📚 Estudando Análise de Dados e BI  
 🚀 Em busca de novos desafios e oportunidades como Analista de Dados Jr
+
 
 ### 💻 Tech Stack: </br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-00758F?style=flat&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
